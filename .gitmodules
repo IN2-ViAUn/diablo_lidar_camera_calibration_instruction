@@ -1,0 +1,3 @@
+[submodule "ros2_lidar_camera_auto_calibrate"]
+	path = ros2_lidar_camera_auto_calibrate
+	url = git@github.com:IN2-ViAUn/ros2_lidar_camera_auto_calibrate.git
